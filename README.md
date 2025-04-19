@@ -1,23 +1,27 @@
-# guitarLA
-GuitarLA - Tienda Online de Guitarras
-GuitarLA es una aplicación web construida con React que simula una tienda de guitarras, permitiendo a los usuarios explorar una colección de productos y gestionar su carrito de compras. Este proyecto fue creado con fines educativos para practicar conceptos clave de React como componentes, props, estado (useState), efectos (useEffect) y optimización de renderizado (useMemo).
+**GuitarLA - Tienda Online de Guitarras**
 
-💡 Funcionalidades principales
-Visualización de guitarras con imagen, nombre y precio
+GuitarLA es una aplicación web construida con **React** que simula una tienda de guitarras, permitiendo a los usuarios explorar una colección de productos y gestionar su carrito de compras.
 
-Carrito de compras interactivo con:
+Este proyecto fue creado con fines **educativos** para practicar conceptos clave de React como:
 
-Agregar producto
+- ⚛️ Componentes
+- 🧩 Props
+- 🧠 useState
+- 🔄 useEffect
+- 🚀 useMemo
 
-Eliminar producto
+---
 
-Aumentar / Disminuir cantidad
+## 💡 Funcionalidades principales
 
-Total dinámico
+✅ Visualización de guitarras con imagen, nombre y precio  
+🛒 Carrito de compras interactivo con:
 
-Límite por producto
+- ➕ Agregar producto  
+- ❌ Eliminar producto  
+- 🔼 Aumentar / 🔽 Disminuir cantidad  
+- 💵 Total dinámico  
+- 🚫 Límite por producto  
+- 💾 Guardado del carrito en `localStorage` para mantenerlo entre sesiones  
 
-Guardado del carrito en localStorage para mantenerlo entre sesiones
-
-Responsive design para que se vea bien en distintos dispositivos
-
+📱 Responsive design para que se vea bien en distintos dispositivos
