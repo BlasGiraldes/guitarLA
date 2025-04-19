@@ -1,12 +1,29 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**GuitarLA - Tienda Online de Guitarras**
 
-Currently, two official plugins are available:
+GuitarLA es una aplicación web construida con **React** que simula una tienda de guitarras, permitiendo a los usuarios explorar una colección de productos y gestionar su carrito de compras.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este proyecto fue creado con fines **educativos** para practicar conceptos clave de React como:
 
-## Expanding the ESLint configuration
+- ⚛️ Componentes
+- 🧩 Props
+- 🧠 useState
+- 🔄 useEffect
+- 🚀 useMemo
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💡 Funcionalidades principales
+
+✅ Visualización de guitarras con imagen, nombre y precio  
+🛒 Carrito de compras interactivo con:
+
+- ➕ Agregar producto  
+- ❌ Eliminar producto  
+- 🔼 Aumentar / 🔽 Disminuir cantidad  
+- 💵 Total dinámico  
+- 🚫 Límite por producto  
+- 💾 Guardado del carrito en `localStorage` para mantenerlo entre sesiones  
+
+📱 Responsive design para que se vea bien en distintos dispositivos
+
